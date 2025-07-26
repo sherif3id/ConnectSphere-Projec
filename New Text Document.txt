@@ -1,9 +1,0 @@
-cd C:\Users\sheri\OneDrive\Desktop\Sherif Eid\backend
-nodemon server.js
-______________________
-
-mysql -u root -p
-USE connectsphere_db;
-SELECT email FROM users;
-
-SELECT email, password FROM users;
